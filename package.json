@@ -1,0 +1,25 @@
+{
+  "name": "laberintoweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build":"webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessicaOI/LaberintoWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessicaOI/LaberintoWeb/issues"
+  },
+  "homepage": "https://github.com/JessicaOI/LaberintoWeb#readme",
+  "dependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
